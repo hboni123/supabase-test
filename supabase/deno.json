@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "express": "https://deno.land/x/attain/mod.ts",
+        "supabase": "https://deno.land/x/supabase/mod.ts",
+        "dotenv": "https://deno.land/x/dotenv/load.ts"
+    }
+  }
+  

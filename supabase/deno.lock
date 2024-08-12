@@ -1,0 +1,30 @@
+{
+  "version": "3",
+  "remote": {
+    "https://cdn.jsdelivr.net/npm/@supabase/auth-js@2.64.4/+esm": "5884545d5f7381f8266e700127f0c6dc59816a0cee2688dd9d1f4fcc644755fd",
+    "https://cdn.jsdelivr.net/npm/@supabase/functions-js@2.4.1/+esm": "b618893f827566c4e88bfb661cd0690dbeb30ff7360d2ef017c91a563402f75d",
+    "https://cdn.jsdelivr.net/npm/@supabase/node-fetch@2.6.15/+esm": "e3de9f04020b7b25a573827cf34f92e298074fb99396e83e96460b317bead433",
+    "https://cdn.jsdelivr.net/npm/@supabase/postgrest-js@1.15.8/+esm": "fcf3a9ecd5e768e0d0121de93f0dd8d06e48e60f83220107ae4cc2f82b2e9e4c",
+    "https://cdn.jsdelivr.net/npm/@supabase/realtime-js@2.10.2/+esm": "29e55155034e0f91ff507cdc68bd181f4c493e1c2be7ef3e8205b4747781c21d",
+    "https://cdn.jsdelivr.net/npm/@supabase/storage-js@2.6.0/+esm": "8371b75db36a8ba93ee8d8cd81fe8b9ac9d3266bcd93fc7c61bf0ba890771f48",
+    "https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm": "537a281e8891b74998786eb0fb9d43847d5676578c81eda32c9acbe5740cefb2",
+    "https://cdn.jsdelivr.net/npm/ws@8.17.1/+esm": "9be417fb4123907cbdf99802a09da3c0f312b56748b771fb4c3cb2b4c1b9173e",
+    "https://deno.land/std@0.140.0/async/abortable.ts": "87aa7230be8360c24ad437212311c9e8d4328854baec27b4c7abb26e85515c06",
+    "https://deno.land/std@0.140.0/async/deadline.ts": "48ac998d7564969f3e6ec6b6f9bf0217ebd00239b1b2292feba61272d5dd58d0",
+    "https://deno.land/std@0.140.0/async/debounce.ts": "564273ef242bcfcda19a439132f940db8694173abffc159ea34f07d18fc42620",
+    "https://deno.land/std@0.140.0/async/deferred.ts": "bc18e28108252c9f67dfca2bbc4587c3cbf3aeb6e155f8c864ca8ecff992b98a",
+    "https://deno.land/std@0.140.0/async/delay.ts": "cbbdf1c87d1aed8edc7bae13592fb3e27e3106e0748f089c263390d4f49e5f6c",
+    "https://deno.land/std@0.140.0/async/mod.ts": "6e42e275b44367361a81842dd1a789c55ab206d7c8a877d7163ab5c460625be6",
+    "https://deno.land/std@0.140.0/async/mux_async_iterator.ts": "f4d1d259b0c694d381770ddaaa4b799a94843eba80c17f4a2ec2949168e52d1e",
+    "https://deno.land/std@0.140.0/async/pool.ts": "97b0dd27c69544e374df857a40902e74e39532f226005543eabacb551e277082",
+    "https://deno.land/std@0.140.0/async/tee.ts": "1341feb1f5b1a96f8628d0f8fc07d8c43d3813423f18a63bf1b4785568d21b1f",
+    "https://deno.land/std@0.140.0/http/server.ts": "3da75405704bebcf212a55966a68a489f7e094ba52b5d38f181fe0ef8461a55d"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@supabase/supabase-js@^2.45.1"
+      ]
+    }
+  }
+}
